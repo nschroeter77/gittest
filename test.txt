@@ -1,3 +1,6 @@
 git branch testme >-creates branch testme
 git checkout testme
+git merge testme ->will merge testme back into the master line
+
+throw a conflict now
 
